@@ -1,0 +1,33 @@
+head {
+    text-align: center;
+}
+
+body {
+    background-color: rosybrown;
+    text-emphasis-color: royalblue;
+}
+
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+foot {
+    text-align: center;
+    margin-right: 200px;
+}
+
+.meme1 {
+    margin-right: 200px;
+}
+
+.game-button {
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
