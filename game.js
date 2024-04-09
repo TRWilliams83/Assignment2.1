@@ -17,7 +17,7 @@ function play() {
         console.log("CRAPS - you lose!");
     }
     // #2 else if statement 2nd rule
-    else if (sum === 2 || sum === 4 || sum === 6) {
+    else if (sum === 2 || sum === 4 || sum === 6 || sum === 4) {
         // result if winning number
         console.log("You won!");
     }
