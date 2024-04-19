@@ -47,5 +47,12 @@ function play() {
         }
     }
 }
-
 play();
+function myFunction(){
+    document.getElementById('demo').innerHTML = 'Play Again'
+}
+function displayResult(){
+    const result = play();
+    document.getElementById('result').innerHTML= "'{result}'";
+}
+
